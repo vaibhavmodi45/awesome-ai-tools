@@ -254,6 +254,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Chatbase](https://www.chatbase.co) 🟢 `Freemium` - Turn your own documents and website content into a custom support chatbot in minutes, no coding required.
 - [Crisp](https://crisp.chat) 🟢 `Freemium` - Lightweight live-chat platform with an AI chatbot layer, popular with small businesses and startups.
 - [eesel AI](https://www.eesel.ai) 🟢 `Freemium` - Builds AI agents on top of your existing help-desk knowledge base and past ticket history.
+- [Hermes](https://buildwithhermes.com) 💳 `Paid` - Platform for agencies that deploy white-label AI voice agents for clients, with built-in CRM, inbound/outbound campaign orchestration, and per-client usage billing.
 
 ## Marketing, SEO & Growth AI
 
