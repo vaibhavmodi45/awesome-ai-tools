@@ -135,6 +135,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Pictory](https://pictory.ai) 🟢 `Freemium` - Turns long-form content (blog posts, scripts, webinars) into short, edited video clips automatically.
 - [CapCut](https://www.capcut.com) 🟢 `Freemium` - Free video editor with AI-assisted captions, cuts, and effects, especially popular with short-form creators.
 - [InVideo AI](https://invideo.io) 🟢 `Freemium` - Script-to-video generator aimed at marketers who need fast, templated social content.
+- [ImagineClip](https://imagineclip.com/ai-video-to-video) 🟢 `Freemium` - Creative video workflow for prompts, images, video-to-video transformations, and visual effects.
 - [Magic Hour](https://magichour.ai) 🟢 `Freemium` - Broad AI video toolkit covering image-to-video, face swap, and talking-photo generation in one app.
 
 ## AI Voice, Speech & Audio
