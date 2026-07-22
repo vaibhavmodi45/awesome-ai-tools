@@ -322,6 +322,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [LangSmith](https://www.langchain.com/langsmith) 🟢 `Freemium` - Observability and evaluation platform for debugging and monitoring LLM applications in production.
 - [Weights & Biases](https://wandb.ai) 🟢 `Freemium` - Experiment tracking and model-evaluation platform widely used across both classic ML and LLM fine-tuning workflows.
 - [Replicate](https://replicate.com) 🟢 `Freemium` - Run and host open-source AI models via a simple API, without managing your own GPU infrastructure.
+- [RunAPI](https://runapi.ai) 💳 `Paid` - OpenAI-compatible API gateway for running image, video, music/audio, and model API jobs from one endpoint.
 
 ## GPU Cloud & AI Compute Infrastructure
 
