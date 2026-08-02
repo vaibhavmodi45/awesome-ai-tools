@@ -106,6 +106,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 
 ## AI Image Generation & Editing
 
+- [AIImageChanger.app](https://aiimagechanger.app) 🎁 `Trial/Credits` - Browser-based editor that changes backgrounds, objects, clothing, colors, text, and styles in uploaded images from plain-language prompts while preserving the details that should stay unchanged.
 - [Midjourney](https://www.midjourney.com) 💳 `Paid` - Widely regarded as the artistic-quality leader for image generation, with a distinctive cinematic aesthetic.
 - [DALL-E (via ChatGPT)](https://chat.openai.com) 🟢 `Freemium` - OpenAI's image model, strong at following complex instructions faithfully and rendering legible text.
 - [Ideogram](https://ideogram.ai) 🟢 `Freemium` - The clear leader for generating images with accurate, legible text inside them — posters, logos, signage, labels.
