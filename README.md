@@ -121,6 +121,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [remove.bg](https://www.remove.bg) 🟢 `Freemium` - Purpose-built, one-click AI background remover with a free tier for low-resolution exports.
 - [Upscayl](https://www.upscayl.org) 🆓 `Free` 🔓 `Open Source` - Free, open-source AI image upscaler that runs locally on your own GPU.
 - [Magnific AI](https://magnific.ai) 💳 `Paid` - High-end AI upscaler and detail-enhancer, popular with photographers and designers for print-ready output.
+- [Metadata Remover](https://metadataremover.ai/ai-metadata-remover) 🆓 `Free` - Removes prompts, seeds, model names and workflow data from AI-generated images locally in the browser, without uploading the file.
 - [Clipdrop](https://clipdrop.co) 🟢 `Freemium` - Suite of quick single-purpose image tools (relight, cleanup, uncrop, background removal) from Stability AI.
 
 ## AI Video Generation
