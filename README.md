@@ -132,6 +132,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) 🟢 `Freemium` - Fast, cinematic image-to-video generation, good for rapid concept iteration.
 - [HeyGen](https://www.heygen.com) 🟢 `Freemium` - Leading AI avatar and video-translation platform for corporate training, localization, and talking-head marketing videos.
 - [Synthesia](https://www.synthesia.io) 🟢 `Freemium` - Enterprise-grade avatar video platform widely used for training and internal communications at scale.
+- [SEELE TV](https://seele.tv/) 🎁 `Trial/Credits` - Browser-based AI video creation studio.
 - [Pictory](https://pictory.ai) 🟢 `Freemium` - Turns long-form content (blog posts, scripts, webinars) into short, edited video clips automatically.
 - [CapCut](https://www.capcut.com) 🟢 `Freemium` - Free video editor with AI-assisted captions, cuts, and effects, especially popular with short-form creators.
 - [InVideo AI](https://invideo.io) 🟢 `Freemium` - Script-to-video generator aimed at marketers who need fast, templated social content.
