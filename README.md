@@ -389,6 +389,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 
 - [Scenario](https://www.scenario.com) 🟢 `Freemium` - Train custom AI models on your own game's art style for consistent asset generation.
 - [Meshy](https://www.meshy.ai) 🟢 `Freemium` - Text-to-3D and image-to-3D model generation, popular for game assets and rapid prototyping.
+- [Luphra](https://www.luphra.com) 🟢 `Freemium` - Prompt-to-matter: turns prompts and sketches into editable 3D and manufactured physical products, starting with 3D printables.
 - [Kaedim](https://www.kaedim3d.com) 💳 `Paid` - Converts 2D concept art and images into game-ready 3D models.
 - [Rosebud AI](https://www.rosebud.ai) 🟢 `Freemium` - AI-assisted game creation platform for building playable games from prompts and images.
 - [Wonder Dynamics](https://wonderdynamics.com) 🟢 `Freemium` - Automatically animates and composites CG characters into live-action footage.
