@@ -114,6 +114,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [FLUX (Black Forest Labs)](https://bfl.ai) 🆓 `Free` 🔓 `Open Source` - Open-weight model family that beats many closed competitors on photorealism, widely available via Replicate and fal.ai.
 - [Leonardo AI](https://leonardo.ai) 🟢 `Freemium` - Generous daily free-token allowance and a built-in canvas editor for post-generation touch-ups.
 - [Krea](https://www.krea.ai) 🟢 `Freemium` - Real-time AI image and video generation, built for rapid creative iteration.
+- [Lunalisa](https://luna-lisa.art) 🟢 `Freemium` - Prompt-led workspace for original images and short-form videos.
 - [Recraft](https://www.recraft.ai) 🟢 `Freemium` - Specializes in vector graphics, icons, and brand-consistent design systems rather than fine art.
 - [Playground AI](https://playground.com) 🟢 `Freemium` - Generous free daily generations and a friendly interface for beginners.
 - [NightCafe](https://nightcafe.studio) 🟢 `Freemium` - Community-driven AI art platform with a credit-based free tier, popular for casual experimentation.
