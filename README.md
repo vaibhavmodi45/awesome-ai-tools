@@ -298,6 +298,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Teal](https://www.tealhq.com) 🟢 `Freemium` - Free resume builder and job-application tracker with AI keyword-matching against listings.
 - [Kickresume](https://www.kickresume.com) 🟢 `Freemium` - AI resume and cover-letter generator with a large library of role-specific templates.
 - [Jobscan](https://www.jobscan.co) 🟢 `Freemium` - Scans your resume against a job description and scores its ATS compatibility.
+- [ResumeAI](https://withresumeai.com/) 🟢 `Freemium` - AI resume builder with free ATS checks (3/day anonymous, 10/day free account) and the State of ATS 2026 dataset.
 - [Interview Warmup (Google)](https://grow.google/certificates/interview-warmup) 🆓 `Free` - Free, AI-driven mock-interview practice tool covering common behavioral and technical questions.
 
 ## Avatar, Character & Digital Human AI
