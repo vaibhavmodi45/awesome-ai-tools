@@ -136,6 +136,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [CapCut](https://www.capcut.com) 🟢 `Freemium` - Free video editor with AI-assisted captions, cuts, and effects, especially popular with short-form creators.
 - [InVideo AI](https://invideo.io) 🟢 `Freemium` - Script-to-video generator aimed at marketers who need fast, templated social content.
 - [Magic Hour](https://magichour.ai) 🟢 `Freemium` - Broad AI video toolkit covering image-to-video, face swap, and talking-photo generation in one app.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 🔓 `Open Source` - MIT-licensed, local-first TypeScript CLI and MCP toolkit for coding agents to compose, edit, generate, and assemble videos from editable `plan.json` timelines.
 
 ## AI Voice, Speech & Audio
 
