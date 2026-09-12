@@ -245,6 +245,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Microsoft Power Automate](https://powerautomate.microsoft.com) 🟢 `Freemium` - Automation across the Microsoft 365 stack, the natural choice for organizations already standardized on Microsoft.
 - [Flowise](https://flowiseai.com) 🆓 `Free` 🔓 `Open Source` - Open-source, drag-and-drop builder for LangChain-based LLM workflows and agents.
 - [LangFlow](https://www.langflow.org) 🆓 `Free` 🔓 `Open Source` - Visual builder for LangChain pipelines, popular for prototyping agent architectures before hand-coding them.
+- [Orkas](https://orkas.ai/?source=gh_vaibhav) 🔓 `Open Source` - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## Customer Support & Conversational AI Builders
 
