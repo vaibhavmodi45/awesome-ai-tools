@@ -294,6 +294,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 ## Resume, Career & Job Search AI
 
 - [Indeed](https://www.indeed.com) 🆓 `Free` - Large job listing database with an AI-assisted resume and application flow.
+- [JobEmerge](https://www.jobemerge.work) 🟢 `Freemium` - AI career copilot for job-fit analysis, resume translation and editing, cover letters, text-based interview practice, and application tracking.
 - [Rezi](https://www.rezi.ai) 🟢 `Freemium` - ATS-focused resume builder with AI suggestions tailored to specific job descriptions.
 - [Teal](https://www.tealhq.com) 🟢 `Freemium` - Free resume builder and job-application tracker with AI keyword-matching against listings.
 - [Kickresume](https://www.kickresume.com) 🟢 `Freemium` - AI resume and cover-letter generator with a large library of role-specific templates.
