@@ -133,6 +133,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [HeyGen](https://www.heygen.com) 🟢 `Freemium` - Leading AI avatar and video-translation platform for corporate training, localization, and talking-head marketing videos.
 - [Synthesia](https://www.synthesia.io) 🟢 `Freemium` - Enterprise-grade avatar video platform widely used for training and internal communications at scale.
 - [Pictory](https://pictory.ai) 🟢 `Freemium` - Turns long-form content (blog posts, scripts, webinars) into short, edited video clips automatically.
+- [PixelDojo](https://pixeldojo.ai) 💳 `Paid` - Multi-model AI image and video studio that puts Kling, Veo, Flux, Seedance and Hailuo under one subscription.
 - [CapCut](https://www.capcut.com) 🟢 `Freemium` - Free video editor with AI-assisted captions, cuts, and effects, especially popular with short-form creators.
 - [InVideo AI](https://invideo.io) 🟢 `Freemium` - Script-to-video generator aimed at marketers who need fast, templated social content.
 - [Magic Hour](https://magichour.ai) 🟢 `Freemium` - Broad AI video toolkit covering image-to-video, face swap, and talking-photo generation in one app.
