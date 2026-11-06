@@ -290,6 +290,7 @@ AI tooling moves fast — new entrants monthly, and some tools (Tome's AI slides
 - [Elicit](https://elicit.com) 🟢 `Freemium` - Built specifically for academic literature review, extracting and summarizing findings across many papers at once.
 - [Consensus](https://consensus.app) 🟢 `Freemium` - Searches peer-reviewed research and surfaces a scientific consensus view on a given question.
 - [You.com](https://you.com) 🟢 `Freemium` - Search-and-chat hybrid with citation-backed answers and app-like modes for coding, research, and writing.
+- [DisconfirmAI](https://disconfirmai.com/en) 🟢 `Freemium` - Investment research and reading platform that pushes you to find disconfirming evidence before building conviction (Reading, Research, Radar, Investment framework).
 
 ## Resume, Career & Job Search AI
 
